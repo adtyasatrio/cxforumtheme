@@ -19,6 +19,10 @@
   font-weight: 600;
 }
 
+.extra-info-wrapper .header-title {
+  font-size: var(--font-up-2);
+}
+
 .navigation-controls .btn#create-topic {
  color: var(--secondary);
  background-color: var(--quaternary);
