@@ -56,3 +56,7 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--secondary);
   background-color: var(--quaternary);
 }
+
+.nav-pills>li>a {
+  font-size: 16px;
+}
