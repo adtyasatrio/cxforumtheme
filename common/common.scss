@@ -8,4 +8,21 @@
 // Header
 .d-header {
   border-bottom: 1px solid #e5e7eb;
+  box-shadow: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 500;
+}
+
+.category-list td:first-of-type {
+  padding-left: 10px;
+}
+
+.list-cell, .table-heading, .category-list td, .category-list th {
+  padding: 20px;
+}
+
+.category-list td:first-of-type {
+  padding-left: 24px;
 }
