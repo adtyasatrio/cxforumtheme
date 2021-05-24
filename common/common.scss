@@ -27,6 +27,10 @@ h1, h2, h3, h4, h5, h6 {
   padding-left: 18px;
 }
 
+.latest-topic-list .table-heading, .top-topic-list .table-heading {
+  padding: 16px;
+}
+
 .topic-list-icons a.title, .latest-topic-list a.title, .top-topic-list a.title, .topic-list a.title {
   font-family: var(--heading-font-family);
   font-weight: 500;
@@ -38,4 +42,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .d-header-icons .d-icon {
   font-size: var(--font-up-2);
+}
+
+.nav-pills > li a.active {
+  color: var(--secondary);
+  background-color: var(--quaternary);
 }
