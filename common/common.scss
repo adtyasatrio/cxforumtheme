@@ -4,7 +4,7 @@
 
 // General
 .btn {
-  border-radius: 2rem;
+  border-radius: 6px;
 }
 
 p {
@@ -53,14 +53,6 @@ p {
   .nav,
   .btn {
     margin-bottom: 0;
-  }
-  .btn {
-    position: relative;
-    // background-color: $tertiary;
-    color: var(--light-accent);
-    .d-icon {
-      color: currentColor;
-    }
   }
   ol.category-breadcrumb {
     margin-bottom: 0;
