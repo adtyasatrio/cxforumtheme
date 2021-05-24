@@ -20,9 +20,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .list-cell, .table-heading, .category-list td, .category-list th {
-  padding: 20px;
+  padding: 16px;
 }
 
 .category-list td:first-of-type {
-  padding-left: 24px;
+  padding-left: 18px;
+}
+
+.topic-list-icons a.title, .latest-topic-list a.title, .top-topic-list a.title, .topic-list a.title {
+  font-family: var(--font-family);
+  font-weight: 500;
 }
