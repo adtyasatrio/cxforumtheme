@@ -2,7 +2,7 @@
 
 // General
 .btn {
-  border-radius: 2rem;
+  border-radius: 6px;
 }
 
 // Header
@@ -28,6 +28,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .topic-list-icons a.title, .latest-topic-list a.title, .top-topic-list a.title, .topic-list a.title {
-  font-family: var(--font-family);
+  font-family: var(--heading-font-family);
   font-weight: 500;
 }
