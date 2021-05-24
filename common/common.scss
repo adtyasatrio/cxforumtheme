@@ -19,9 +19,13 @@
   font-weight: 600;
 }
 
-.navigation-controls .btn {
+.navigation-controls .btn#create-topic {
  color: var(--secondary);
  background-color: var(--tertiary);
+}
+
+.btn#create-topic .d-icon {
+  color: var(--secondary);
 }
 
 h1, h2, h3, h4, h5, h6 {
