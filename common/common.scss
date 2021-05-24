@@ -15,7 +15,7 @@
 }
 
 .list-controls .btn .d-button-label {
-  font-size: 16px;
+  font-size: var(--font-0);
   font-weight: 600;
 }
 
@@ -67,5 +67,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-pills>li>a {
-  font-size: 16px;
+  font-size: var(--font-0);
+  font-weight: 600;
 }
