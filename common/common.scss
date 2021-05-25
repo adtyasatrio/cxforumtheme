@@ -145,7 +145,7 @@ div[class^="category-title-header"] {
 .banner-box {
   margin: 0 auto !important;
   margin-top: 40px !important;
-}
-.banner-box .section-header {
-  padding-bottom: 0;
+  .section-header {
+    padding-bottom: 0 !important;
+  }
 }
