@@ -1,6 +1,11 @@
 @import "variables";
 
 // General
+
+html {
+  font-size: var(--font-0);
+}
+
 .btn {
   border-radius: 6px;
 }
