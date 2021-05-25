@@ -143,7 +143,8 @@ div[class^="category-title-header"] {
 // BANNERBOX
 
 .banner-box {
-  margin-top: 40px;
+  margin: 0 auto !important;
+  margin-top: 40px !important;
 }
 .banner-box .section-header {
   padding-bottom: 0;
