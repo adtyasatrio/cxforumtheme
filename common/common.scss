@@ -144,8 +144,10 @@ div[class^="category-title-header"] {
 
 .banner-box {
   margin: 0 auto !important;
-  padding-top: 40px !important;
-  .section-header {
-    padding-bottom: 0 !important;
+  .container {
+    padding-top: 40px !important;
+    .section-header {
+      padding-bottom: 0 !important;
+    }
   }
 }
