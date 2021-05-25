@@ -2,10 +2,6 @@
 
 // General
 
-html {
-  font-size: var(--font-0);
-}
-
 .btn {
   border-radius: 6px;
 }
@@ -103,7 +99,7 @@ div[class^="category-title-header"] {
     padding: 50px;
 
     .category-title-description {
-      font-size: var(--font-0);
+      font-size: 16px;
     }
 
     .d-icon-lock {
