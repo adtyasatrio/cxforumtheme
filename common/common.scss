@@ -151,3 +151,10 @@ div[class^="category-title-header"] {
     }
   }
 }
+
+// CUSTOM HEADER LINK
+
+.custom-header-links .headerLink a {
+  font-size: var(--font-up-0);
+  font-weight: 700;
+}
